@@ -1,0 +1,38 @@
+{
+  "id": "Wylies-File-Browser-Resizer",
+  "title": "Wylie's File Browser resizer",
+  "description": "A tiny module which allows you to manually change the max height of the filepicker, to remove the hassle of unnecessary scrolling when choosing files.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "10.291",
+    "verified": "10.291"
+  },
+  "scripts": ["module.js"],
+  "styles": ["styles.css"],
+  "packs": [],
+  "relationships": {
+  "requires": [],
+  "systems": []
+},
+  "languages": [],
+  "authors": [
+    {
+      "name": "Wylie",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "url": "https://github.com/wylieboy89/Wylies-File-Browser-Resizer",
+  "manifest": "https://raw.githubusercontent.com/wylieboy89/Wylies-File-Browser-Resizer/main/module.json",
+  "download": "https://github.com/wylieboy89/Wylies-File-Browser-Resizer/archive/refs/tags/foundry.zip",
+  "config": {
+    "maxHeight": {
+      "name": "Max Height",
+      "hint": "Set the maximum height of the filepicker directory in pixels.",
+      "scope": "world",
+      "config": true,
+      "default": 200,
+      "type": "Number"
+    }
+  }
+}

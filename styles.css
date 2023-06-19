@@ -1,0 +1,3 @@
+.filepicker .directory {
+  max-height: var(--wfb-resizer-max-height, 200px) !important;
+}
