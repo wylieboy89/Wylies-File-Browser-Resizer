@@ -1,5 +1,5 @@
 {
-  "id": "Wylies-File-Browser-Resizer",
+  "id": "wylies-file-browser-resizer",
   "title": "Wylie's File Browser resizer",
   "description": "A tiny module which allows you to manually change the max height of the filepicker, to remove the hassle of unnecessary scrolling when choosing files.",
   "version": "0.1.0",
