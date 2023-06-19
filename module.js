@@ -1,5 +1,5 @@
 ﻿Hooks.on('init', () => {
-  game.settings.register('Wylies-File-Browser-Resizer', 'maxHeight', {
+  game.settings.register('wylies-file-browser-resizer', 'maxHeight', {
     name: 'Max Height',
     hint: 'Set the maximum height of the filepicker directory in pixels.',
     scope: 'client',
@@ -13,7 +13,7 @@
 });
 
 Hooks.on('ready', () => {
-  const maxHeight = game.settings.get('Wylies-File-Browser-Resizer', 'maxHeight');
+  const maxHeight = game.settings.get('wylies-file-browser-resizer', 'maxHeight');
   document.documentElement.style.setProperty('--wfb-resizer-max-height', `${maxHeight}px`);
 });
 
