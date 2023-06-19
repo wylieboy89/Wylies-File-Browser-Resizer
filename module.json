@@ -24,7 +24,7 @@
   ],
   "url": "https://github.com/wylieboy89/Wylies-File-Browser-Resizer",
   "manifest": "https://raw.githubusercontent.com/wylieboy89/Wylies-File-Browser-Resizer/main/module.json",
-  "download": "https://github.com/wylieboy89/Wylies-File-Browser-Resizer/archive/refs/tags/foundry.zip",
+  "download": "https://github.com/wylieboy89/Wylies-File-Browser-Resizer/archive/refs/heads/main.zip",
   "config": {
     "maxHeight": {
       "name": "Max Height",
