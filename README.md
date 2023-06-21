@@ -16,6 +16,6 @@ After
 
 Settings menu
 
-![Wylies-File-Browser-Resizer](/Screenshots-resizer/Settings%20menu.png)
+![Wylies-File-Browser-Resizer](/Screenshots-resizer/Settings-resizer.png)
 
 The module is by default set to a value of 200px, which is very small. In the screenshot above, I chose 400px which fit my monitor nicely.
