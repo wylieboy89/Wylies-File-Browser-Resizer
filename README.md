@@ -1,5 +1,7 @@
 # Wylies-File-Browser-Resizer
 
+![GitHub all releases](https://img.shields.io/github/downloads/wylieboy89/Wylies-File-Browser-Resizer/total?style=for-the-badge)
+
 Wylie's File Browser Resizer is a Module for Foundry Virtual Tabletop which enables an option in the settings menu to manually resize the maximum height of the filepicker window. This allows you to ensure it will always fit within your monitor window and prevent you from scrolling off-screen to find the "Choose File" button.
 
 This module is compatible with both v10 and v11.
